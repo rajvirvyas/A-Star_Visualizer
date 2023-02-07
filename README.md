@@ -1,1 +1,3 @@
 # A-Star_Visualizer
+
+This project allows the user to visualize the A Star Pathfinding algorithm, which is an extension of Djikstra's algorithm, and it is often the most efficient node/graph searching algorithm. I was fascinated by the pathfinding algorithms when I researched the technology behind internet mapping/directions applications. I decided to try and implement this algorithm and a visualizer to gain further understanding of priority queues, and use pygame for the first time. In the future, I believe this project can be expanded to create a simple directions application between two geophysical locations.
